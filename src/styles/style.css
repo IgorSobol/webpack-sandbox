@@ -1,0 +1,17 @@
+.container {
+  padding-top: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+.logo {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  background-image: url('../assets/webpack.png');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
